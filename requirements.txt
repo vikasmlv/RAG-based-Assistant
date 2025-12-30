@@ -1,0 +1,10 @@
+dotenv
+pypdf
+nltk
+sentence-transformers
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-chroma
+streamlit

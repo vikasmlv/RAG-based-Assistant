@@ -1,0 +1,25 @@
+[project]
+name = "rag-based-legal-assistant"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "faiss-cpu>=1.13.0",
+    "hf-xet>=1.1.7",
+    "langchain>=0.3.27",
+    "langchain-chroma>=0.2.5",
+    "langchain-cohere>=0.4.5",
+    "langchain-community>=0.3.27",
+    "langchain-google-genai>=2.1.12",
+    "langchain-huggingface>=0.3.1",
+    "langchain-ollama>=0.3.10",
+    "langchain-openai>=0.3.28",
+    "nltk>=3.9.2",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "pypdf>=5.9.0",
+    "ragas>=0.3.9",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=5.1.0",
+]

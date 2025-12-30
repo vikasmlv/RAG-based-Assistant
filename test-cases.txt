@@ -1,0 +1,7 @@
+complex: Under Section 7, anyone can object to a proposed marriage if it violates the conditions in Section 4, including the requirement of no living spouse and not being within prohibited degrees. How should the Marriage Officer apply the inquiry procedure under Section 8 when the objector claims both mental incapacity under Section 4(b) and a prohibited relationship under Section 4(d)?
+
+complex_two: If a couple’s marriage has lapsed because it was not solemnized within three months as required by Section 14, but an objection inquiry under Section 8 was still pending, how should the Marriage Officer determine whether a fresh notice is mandatory? Also explain how the 30-day objection period under Sections 6 and 7 interacts with the three-month lapse window.
+
+Super Complex: Suppose a marriage is challenged as void under Section 24 on the ground that one party was already married, while the couple simultaneously seeks registration of an earlier ceremony under Chapter III claiming long-term cohabitation. How should the decision-maker reconcile the conditions in Section 15(b) (requiring no existing spouse) with the legitimacy protections for children under Section 26, exitand what procedural consequences follow if an appeal under Section 17 is already pending?
+
+RAGAS dataset:
